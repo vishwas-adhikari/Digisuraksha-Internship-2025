@@ -32,6 +32,7 @@ Carrot2 is an open-source search results clustering engine written in Java. It a
 Used Carrot2 to analyze **"ransomware trends 2025"**:
 - Clustered results into categories like **Cyberwarfare**, **Malware**, **Social Media**, etc.
 - Helped visualize rising threats and emerging ransomware operations.
+### POC attached in the pdf file 
 
 ---
 
@@ -55,6 +56,7 @@ Zapmeta is a meta-search engine that aggregates results from multiple sources (e
 - Queried leaked data on Pastebin via Zapmeta.
 - Identified sensitive data still publicly accessible via surface web.
 - Demonstrated aggregated results from multiple engines to enhance threat visibility.
+##POC attached in the pdf file 
 
 ---
 
