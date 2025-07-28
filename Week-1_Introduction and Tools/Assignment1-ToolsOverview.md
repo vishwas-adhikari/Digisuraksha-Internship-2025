@@ -6,7 +6,7 @@
 
 This document provides a summarized report on two powerful tools used in cybersecurity and OSINT (Open Source Intelligence): **Carrot2** and **Zapmeta**. Both tools assist in gathering and organizing information from open sources, helping cybersecurity professionals uncover patterns, trends, and threats effectively.
 
-> ⚠️ **NOTE**: The complete report is written in the PDF file attached in this folder.  
+> ⚠️📌 **NOTE**: The complete report is written in the PDF file attached in this folder.  
 > Please refer to it for full details and the **Proof of Concept (POC)**.
 
 ---
@@ -32,6 +32,7 @@ Carrot2 is an open-source search results clustering engine written in Java. It a
 Used Carrot2 to analyze **"ransomware trends 2025"**:
 - Clustered results into categories like **Cyberwarfare**, **Malware**, **Social Media**, etc.
 - Helped visualize rising threats and emerging ransomware operations.
+### 📌Note : POC attached in the pdf file 
 
 ---
 
@@ -55,6 +56,7 @@ Zapmeta is a meta-search engine that aggregates results from multiple sources (e
 - Queried leaked data on Pastebin via Zapmeta.
 - Identified sensitive data still publicly accessible via surface web.
 - Demonstrated aggregated results from multiple engines to enhance threat visibility.
+### 📌Note : POC attached in the pdf file 
 
 ---
 
