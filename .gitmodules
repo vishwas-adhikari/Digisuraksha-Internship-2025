@@ -1,0 +1,3 @@
+[submodule "Week-3_Threat-Intel & Homoglyph/homoglyph-tool"]
+	path = Week-3_Threat-Intel & Homoglyph/homoglyph-tool
+	url = https://github.com/vishwas-adhikari/homoglyph-tool.git
