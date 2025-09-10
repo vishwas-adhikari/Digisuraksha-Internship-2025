@@ -3,13 +3,13 @@
     url = https://github.com/vishwas-adhikari/homoglyph-tool.git
 
 [submodule "Week-4_IDS/Intrusion-Detection-System"]
-    path = Week-4_IDS/Intrusion-Detection-System
+	path = Week-4_IDS and IPS/Intrusion-Detection-System
     url = https://github.com/vishwas-adhikari/Intrusion-Detection-System.git
 
 [submodule "Week-4_IDS/LiteShield-IPS"]
-    path = Week-4_IDS/LiteShield-IPS
+	path = Week-4_IDS and IPS/LiteShield-IPS
     url = https://github.com/vishwas-adhikari/LiteShield-IPS.git
 
 [submodule "Week-5_Stegno/StegnoByte"]
-    path = Week-5_Stegno/StegnoByte
+	path = Week-5_Steganography tool/StegnoByte
     url = https://github.com/vishwas-adhikari/StegnoByte.git
