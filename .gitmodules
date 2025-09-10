@@ -4,3 +4,9 @@
 [submodule "Week-4_IDS/Intrusion-Detection-System"]
 	path = Week-4_IDS/Intrusion-Detection-System
 	url = https://github.com/vishwas-adhikari/Intrusion-Detection-System.git
+[submodule "Week-4_IDS/LiteShield-IPS"]
+	path = Week-4_IDS/LiteShield-IPS
+	url = https://github.com/vishwas-adhikari/LiteShield-IPS.git
+[submodule "Week-5_Steganography and Web-Exploits/StegnoByte"]
+	path = Week-5_Steganography and Web-Exploits/StegnoByte
+	url = https://github.com/vishwas-adhikari/StegnoByte.git
