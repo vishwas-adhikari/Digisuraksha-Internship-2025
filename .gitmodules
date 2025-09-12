@@ -13,3 +13,6 @@
 [submodule "Week-5_Stegno/StegnoByte"]
 	path = Week-5_Steganography tool/StegnoByte
     url = https://github.com/vishwas-adhikari/StegnoByte.git
+[submodule "Week-8_Finalization/Phishing-Simulator"]
+	path = Week-8_Finalization/Phishing-Simulator
+	url = https://github.com/vishwas-adhikari/Phishing-Simulator.git
